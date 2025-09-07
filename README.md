@@ -46,7 +46,7 @@ https://drive.google.com/file/d/1fdoWTeTQlxqQyNKYtp1WEG22dQj2qoOS/view?usp=drive
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/ecotrack.git
+git clone[(https://github.com/Abhishek180-Kumar/EcoTrack-AI-Waste-Classifier)]
 cd ecotrack
 Install dependencies:
 
