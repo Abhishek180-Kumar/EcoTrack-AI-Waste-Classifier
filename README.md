@@ -22,7 +22,7 @@ This project is a step towards **sustainable waste management** and **cleaner ci
 
 ## 📸 Demo Screenshot
 *(Add a screenshot of your running app here)*  
-`![Demo Screenshot](https://drive.google.com/file/d/1fdoWTeTQlxqQyNKYtp1WEG22dQj2qoOS/view?usp=sharing)
+`![Demo Screenshot]([https://drive.google.com/file/d/1fdoWTeTQlxqQyNKYtp1WEG22dQj2qoOS/view?usp=sharing)])
 
 ---
 
